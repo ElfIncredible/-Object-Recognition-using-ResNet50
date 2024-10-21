@@ -148,3 +148,15 @@ The successful development and deployment of the image classification system usi
   - Continuous improvements through techniques such as fine-tuning, hyperparameter optimization, and ensemble methods can further elevate performance and applicability.
 
 In conclusion, the results achieved from this project not only validate the effectiveness of the implemented model but also pave the way for future advancements in image classification technologies. The insights gained will support ongoing developments in the field, fostering innovation and application across various sectors.
+
+### Future Improvements
+- **Data Augmentation:** Implement advanced techniques (rotation, zoom, flipping) to enhance dataset diversity and model robustness.
+- **Hyperparameter Tuning:** Use Grid Search or Random Search to optimize model parameters for better performance.
+- **Transfer Learning:** Utilize pre-trained models (e.g., ResNet) and fine-tune them on CIFAR-10 for improved accuracy.
+- **Model Architecture Enhancements:** Explore deeper or more complex architectures (e.g., DenseNet, EfficientNet) to capture intricate image features.
+- **Ensemble Methods:** Combine predictions from multiple models to boost accuracy and reduce overfitting.
+- **Regularization Techniques:** Implement Dropout, L2 regularization, or Batch Normalization to prevent overfitting.
+- **Class Imbalance Handling:** Use class weighting or synthetic data generation to address underrepresented classes.
+- **Incorporating Explainability:** Add visualization methods (e.g., Grad-CAM) to enhance model interpretability.
+- **Real-Time Prediction:** Develop a web or mobile application for accessible, real-time predictions.
+- **Continuous Learning:** Implement a system for ongoing model updates with new data to maintain relevance.
